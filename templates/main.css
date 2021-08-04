@@ -1,0 +1,62 @@
+h3
+{
+	font-family: 'Dancing Script', cursive;
+
+	margin-bottom: 30px;
+}
+title { padding: 40px 40px }
+body{
+  align-items: center;
+
+#head2{
+  text-align: left;
+}
+
+}
+.header2{
+  text-align: center;
+
+}
+
+.list{
+	font-style: normal;
+}
+h2 {
+
+  font-style: italic;
+}
+form{
+  text-align: center;
+}
+input{
+  height: 30px;
+  margin: 20px;
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+	margin: 55px;
+  word-wrap: break-word;
+}
+img {
+  margin-left: 100px;
+  width: 90%;
+  height: 400px;
+}
+
+
+button{
+  text-align: center;
+}
+
+.buttonstyle {
+  text-align: center;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+}
